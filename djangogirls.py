@@ -16,5 +16,3 @@ def print_position_in_waiting_list(name):
 
 print_position_in_waiting_list("Lisa")
 print_position_in_waiting_list("Karolin")
-
-print(1 + 1)
